@@ -3,7 +3,7 @@
 A web-based application where faculty members can post, view, update, and manage research opportunities.
 
 ## GitHub Repository
-https://github.com/YOUR_USERNAME/research-opportunity-portal
+https://github.com/tanveerulhaq-313/research-opportunity-portal
 
 ## Tech Stack
 - Backend: Node.js + Express
@@ -20,4 +20,4 @@ https://github.com/YOUR_USERNAME/research-opportunity-portal
 (To be added)
 
 ## Author
-P24-0692 — Tanveer Ul Haq — Section 5C
+P24-0692 — Tanveer Ul Haq 
